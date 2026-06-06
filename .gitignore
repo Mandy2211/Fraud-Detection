@@ -11,6 +11,8 @@ ENV/
 *.pyo
 *.pyd
 
+pyrefly.toml
+.pyrefly/
 # Large data files
 data/raw/
 data/processed/
